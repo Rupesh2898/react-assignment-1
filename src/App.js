@@ -7,7 +7,7 @@ import FunctionCounter from './FunctionCounter';
 function App() {
   return (
     <div className="app-container">
-      <h1>Assignment-2 Counter Application</h1>
+      <h1>Assignment-1 Counter Application</h1>
       <div className="counter-row">
         <ClassCounter />
         <FunctionCounter />
